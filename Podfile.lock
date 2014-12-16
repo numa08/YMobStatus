@@ -1,0 +1,10 @@
+PODS:
+  - NNYMobClient (0.1.0)
+
+DEPENDENCIES:
+  - NNYMobClient
+
+SPEC CHECKSUMS:
+  NNYMobClient: 2378da6781aea798cb3fe1b8531dc73abc68749b
+
+COCOAPODS: 0.34.4

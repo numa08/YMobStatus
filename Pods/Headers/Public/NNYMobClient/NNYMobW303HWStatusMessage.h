@@ -1,0 +1,1 @@
+../../../NNYMobClient/Pod/Classes/NNYMobW303HWStatusMessage.h
